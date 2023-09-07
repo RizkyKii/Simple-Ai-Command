@@ -1,0 +1,1 @@
+    namafile = 'Ngomong.mp3'
